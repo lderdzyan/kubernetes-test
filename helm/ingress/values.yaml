@@ -1,0 +1,11 @@
+fullnameOverride: ingress
+
+replicaCount: 2
+
+image:
+  repository: frontend-ui
+  tag: "1.0.0"
+
+containerPort: 3000
+servicePort: 80
+hostName: myapp.local

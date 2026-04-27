@@ -1,0 +1,10 @@
+fullnameOverride: backend
+
+replicaCount: 2
+
+image:
+  repository: backend-image
+  tag: "1.0.0"
+
+containerPort: 3000
+servicePort: 80
