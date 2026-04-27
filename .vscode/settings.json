@@ -1,5 +1,0 @@
-{
-    "yaml.schemas": {
-        "kubernetes://schema/v1@service": "file:///home/lderdzyan/Desktop/kubernetes/kubernetes/frontend.yaml"
-    }
-}
