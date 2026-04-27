@@ -4,7 +4,7 @@ replicaCount: 2
 
 image:
   repository: frontend-ui
-  tag: "1.0.0"
+  tag: "1.0.1"
 
 containerPort: 3000
 servicePort: 80

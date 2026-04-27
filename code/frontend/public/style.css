@@ -1,6 +1,6 @@
 body {
   font-family: Arial;
-  background: #0f172a;
+  background: #ff9285;
   color: white;
   text-align: center;
   margin-top: 50px;
@@ -9,7 +9,7 @@ body {
 .container {
   width: 500px;
   margin: auto;
-  background: #1e293b;
+  background: #a90d0d;
   padding: 20px;
   border-radius: 10px;
 }
@@ -22,7 +22,7 @@ button {
 
 #output {
   margin-top: 20px;
-  background: #334155;
+  background: #ff0921;
   padding: 10px;
   border-radius: 5px;
 }
